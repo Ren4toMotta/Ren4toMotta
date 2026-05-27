@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renato da Motta</h1>
-<h3 align="center">A 20 Years old from Brazil</h3>
+<h3 align="center">A 20 Years old developer from Brazil</h3>
 
 - 🌱 I’m currently learning **python, C# and Angular**
 
